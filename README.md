@@ -66,7 +66,7 @@
 
 123Loadboard is an online freight marketplace that connects carriers, brokers, and shippers across the United States. It offers tools to find loads, post freight, calculate rates, and manage documents, helping users reduce empty miles, increase truck utilization, and streamline logistics operations. The platform provides market rate data, profit calculators, mileage tools, and load tracking, aiming to keep freight moving efficiently.
 
-**Areas:** Freight · Marketplace · Logistics · LoadBoard · Transportation
+**Areas:** Freight · Marketplace · Logistics · Load Board · Transportation
 
 ## 123Loadboard on APIs.io
 
@@ -104,18 +104,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 26.9** — thin · rubric 0.27.0 · scored 2026-11-15
+**Kin Score 23.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 50.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 21.1 |
+| Operational transparency | 19.0 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 73.2 |
+| Access clarity | 61.7 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -141,8 +141,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/123loadboard/](https://apis.io/providers/123loadboard/).
 
